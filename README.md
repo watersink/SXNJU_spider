@@ -20,10 +20,13 @@ download all the books in pdf format from [SXNJU](http://sxnju.chineseall.cn/hom
     java -version
     javac -version
 * GhostScript
+> 
     apt-get install ghostscript
 * PDFTK
+> 
     apt-get install pdftk
 * QPDF
+> 
     apt-get install qpdf
 
 
@@ -40,10 +43,13 @@ download all the books in pdf format from [SXNJU](http://sxnju.chineseall.cn/hom
 
 ## my changes
 - [x] crawl all the book url,one book one url,about 133996 books
+> 
     pthon3 crawl_book_urls.py
-- [x] run this .py,will download all the books without interacte 
+- [x] run this .py,will download all the books without interacte
+>  
     python3 run_all.py
 - [x] delete the pdf in tmp folder
+> 
     python3 delete_tmp_pdf.py
 
 ## result
