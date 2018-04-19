@@ -48,9 +48,11 @@ download all the books in pdf format from [SXNJU](http://sxnju.chineseall.cn/hom
 
 ## result
 <div>
-<img width="350" height="250" src="https://github.com/watersink/SXNJU/raw/master/result/result1.jpg"/>
-<img width="350" height="250" src="https://github.com/watersink/SXNJU/raw/master/result/result2.jpg"/>
+<img width="350" height="250" src="https://github.com/watersink/SXNJU_spider/raw/master/result/result1.jpg"/>
+<img width="350" height="250" src="https://github.com/watersink/SXNJU_spider/raw/master/result/result2.jpg"/>
 </div>
 
+## others
+    only used for study and communication
 ## reference:
 [NJU-lib-Downloader](https://github.com/padeoe/nju-lib-downloader)
